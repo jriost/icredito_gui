@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "login-image",
+      "description": "Fondo abstracto para la página de login de iCredito",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0597/2987/1039/files/consejos-para-saber-como-vestir-para-ir-de-compras.jpg?v=1673878348",
+      "imageHint": "abstract background"
+    },
+    {
+      "id": "login-logo",
+      "description": "iCredito company logo",
+      "imageUrl": "https://www.tuya.com.co/sites/default/files/landings/alivios/logo-tuya-landing.png",
+      "imageHint": "company logo"
+    }
+  ]
+}
